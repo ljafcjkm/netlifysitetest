@@ -1,4 +1,5 @@
 /node_modules
+/.netlify
 
 LICENSE.txt
 README.txt
